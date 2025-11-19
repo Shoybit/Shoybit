@@ -53,15 +53,26 @@ I specialize in turning complex UI challenges into clean, efficient code that de
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
 </div>
 
-<div>
-  <div align="center">
+<div align="center">
   
 ![Coding Animation](https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif)
 
 </div>
-<div?
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoyaib105@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoyaib-islam-1167bb320/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shoyaibchowdhury.07)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shoyaib_chowdhury0)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shoybit07)
 
 </div>
+
+---
+
 
 ## 📈 GitHub Analytics
 
@@ -92,4 +103,11 @@ I specialize in turning complex UI challenges into clean, efficient code that de
 
 </div>
 
+
 <div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shoybit&color=blueviolet&style=flat)
+
+**⚡ Turning ideas into reality, one line of code at a time.**
+
+</div>
