@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shoyaib</h1>
-<h3 align="center">
+<p align="center">
 A passionate Front-End Web Developer crafting responsive, scalable, and user-friendly interfaces with modern technologies. 
 I specialize in turning complex UI challenges into clean, efficient code that delivers exceptional user experiences.
-</h3>
+</p>
 
 <div align="center">
   
