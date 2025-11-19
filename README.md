@@ -63,11 +63,6 @@ I’m a passionate Front-End Web Developer who crafts responsive, scalable, and 
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
 </div>
 
-<div align="center">
-  
-![Coding Animation](https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif)
-
-</div>
 
 ## 🌐 Connect with Me
 
@@ -80,6 +75,11 @@ I’m a passionate Front-End Web Developer who crafts responsive, scalable, and 
 </div>
 
 ---
+<div align="center">
+  
+![Coding Animation](https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif)
+
+</div>
 
 
 ## 📈 GitHub Analytics
