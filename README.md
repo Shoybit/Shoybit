@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shoyaib</h1>
+<img src="https://i.ibb.co/20hZ5DMZ/final.jpg" alt="Banner"/>
 <p align="center">
 A passionate Front-End Web Developer crafting responsive, scalable, and user-friendly interfaces with modern technologies. 
 I specialize in turning complex UI challenges into clean, efficient code that delivers exceptional user experiences.
