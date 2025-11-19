@@ -10,6 +10,17 @@ I specialize in turning complex UI challenges into clean, efficient code that de
 
 </div>
 
+---
+
+## 🎨 About Me
+
+🌟 Passionate Front-End developer crafting dynamic, responsive, and user-centric apps.  
+🔥 Lover of clean code, modern UI/UX, and scalable architecture.  
+🌱 “Small steps today, greener tomorrow.”  
+💡 Currently exploring *Next.js*.
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 **Frontend Development**
