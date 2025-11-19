@@ -59,7 +59,7 @@ I specialize in turning complex UI challenges into clean, efficient code that de
 
 </div>
 
-## 📫 Let's Connect
+## 📫  Connect with Me
 
 <div align="center">
 
