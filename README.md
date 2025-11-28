@@ -1,4 +1,4 @@
-<img src="https://github.com/Shoybit/Shoybit/blob/main/1000021044-02%5B1%5D.jpg" alt="Banner"/>
+<img src="https://github.com/Shoybit/Shoybit/blob/main/Md.Shoyaib%20Islam.jpg" alt="Banner"/>
 <p align="center">
 I’m a passionate Front-End Web Developer who crafts responsive, scalable, and user-friendly interfaces using modern technologies. I specialize in turning complex UI challenges into clean, efficient code that delivers exceptional user experiences.
 </p>
