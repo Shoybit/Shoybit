@@ -5,7 +5,8 @@ I’m a passionate Front-End Web Developer who crafts responsive, scalable, and 
 
 <div align="center">
   
-![Developer](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Frontend+Developer;React+Developer;Web+Developer;)
+![Developer](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Frontend+Developer;MERN+Stack+Developer;React+Developer;Web+Developer;)
+
 
 </div>
 
