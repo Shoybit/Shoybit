@@ -104,6 +104,8 @@ I’m a passionate Front-End Web Developer who crafts responsive, scalable, and 
   </a>
 </div>
 
+
+
 ## 💻 **Programming Activity**
 
 <div align="center">
@@ -111,4 +113,10 @@ I’m a passionate Front-End Web Developer who crafts responsive, scalable, and 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shoybit&theme=react-dark&hide_border=true&area=true)
 
 </div>
+
+## Thanks for Visiting!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmed-1430&style=for-the-badge&color=00eaff">
+</p>
 
