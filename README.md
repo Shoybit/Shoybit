@@ -17,7 +17,7 @@ I’m a passionate Front-End Web Developer who crafts responsive, scalable, and 
 🌟 Passionate Front-End developer crafting dynamic, responsive, and user-centric apps.  
 🔥 Lover of clean code, modern UI/UX, and scalable architecture.  
 🌱 “Small steps today, greener tomorrow.”  
-💡 Currently exploring *Next.js*.
+💡 Currently exploring *Next.js* and *TypeScript*.
 
 ---
 
