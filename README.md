@@ -85,11 +85,7 @@ I’m a passionate Front-End Web Developer who crafts responsive, scalable, and 
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/shoybit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shoybit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Shoyaib's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoybit&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-  </a>
+
 </div>
 
 <div align="center">
