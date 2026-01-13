@@ -102,7 +102,7 @@ I’m a passionate Front-End Web Developer who crafts responsive, scalable, and 
 
  
 
-## 💻 **Programming Activity**
+## 💻 **Programming Activitys**
 
 <div align="center">
 
