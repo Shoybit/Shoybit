@@ -102,14 +102,6 @@ I’m a passionate Front-End Web Developer who crafts responsive, scalable, and 
 
  
 
-## 💻 **Programming Activity**
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shoybit&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
 ## Thanks for Visiting!
 
 <p align="center">
