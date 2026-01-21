@@ -5,7 +5,7 @@ Front-End Developer focused on building clean, responsive, and user-friendly web
 
 <div align="center">
   
-![Developer](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Frontend+Developer;MERN+Stack+Developer;React+Developer;Web+Developer;)
+![Developer](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Frontend+Developer;MERN+Stack+Developer;)
 
 
 </div>
@@ -22,6 +22,7 @@ I enjoy transforming complex UI ideas into simple, performant, and maintainable 
 
 
 ---
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -87,9 +88,6 @@ I enjoy transforming complex UI ideas into simple, performant, and maintainable 
 
 ## 📈 GitHub Analytics
 
-
-</div>
-
 <div align="center">
   <a href="https://github.com/shoybit">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shoybit&theme=radical" alt="GitHub Streak"/>
@@ -113,6 +111,8 @@ I enjoy transforming complex UI ideas into simple, performant, and maintainable 
 ## Thanks for Visiting!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-1430&style=for-the-badge&color=00eaff">
+  <img src="https://komarev.com/ghpvc/?username=shoybit&style=for-the-badge&color=00eaff">
+  
+
 </p>
 
