@@ -1,6 +1,6 @@
 <img src="https://github.com/Shoybit/Shoybit/blob/main/Md.Shoyaib%20Islam.jpg" alt="Banner"/>
 <p align="center">
-I’m a passionate Front-End Web Developer who crafts responsive, scalable, and user-friendly interfaces using modern technologies. I specialize in turning complex UI challenges into clean, efficient code that delivers exceptional user experiences.
+Front-End Developer focused on building clean, responsive, and user-friendly web interfaces.
 </p>
 
 <div align="center">
@@ -14,10 +14,12 @@ I’m a passionate Front-End Web Developer who crafts responsive, scalable, and 
 
 ## 🎨 About Me
 
-🌟 Passionate Front-End developer crafting dynamic, responsive, and user-centric apps.  
-🔥 Lover of clean code, modern UI/UX, and scalable architecture.  
-🌱 “Small steps today, greener tomorrow.”  
-💡 Currently exploring *Next.js* and *TypeScript*.
+I build clean, responsive, and user-focused web applications using React and Next.js.  
+I enjoy transforming complex UI ideas into simple, performant, and maintainable code.
+
+⚡ Strong focus on modern UI/UX, reusable components, and scalable frontend architecture.  
+🌱 Currently improving my skills in Next.js, TypeScript, and full-stack MERN development.
+
 
 ---
 
