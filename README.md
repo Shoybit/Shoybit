@@ -89,10 +89,15 @@ I enjoy transforming complex UI ideas into simple, performant, and maintainable 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/shoybit">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shoybit&theme=radical" alt="GitHub Streak"/>
-  </a>
+  <p>
+    <img 
+      height="800"
+      width="900"
+      src="https://github-analytics-backend.vercel.app/api/github/stats.svg?user=shoybit"
+    />
+  </p>
 </div>
+
 
 <div align="center">
   <a href="https://github.com/shoybit">
