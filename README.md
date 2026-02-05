@@ -86,12 +86,18 @@ I enjoy transforming complex UI ideas into simple, performant, and maintainable 
 </div>
 
 
-## 📈 GitHub Analytics
+## 🚀 GitHub Analytics (Custom Built)
+
+Dynamic GitHub statistics powered by my own **GraphQL + SVG analytics engine**  
+- ⚡ Real-time data  
+- 🎨 Fully custom SVG rendering  
+- ☁️ Deployed on Vercel  
+
 
 <div align="center">
   <p>
     <img 
-      height="800"
+      height="900"
       width="900"
       src="https://github-analytics-backend.vercel.app/api/github/stats.svg?user=shoybit"
     />
