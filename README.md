@@ -89,9 +89,9 @@ I enjoy transforming complex UI ideas into simple, performant, and maintainable 
 ## 🚀 GitHub Analytics (Custom Built)
 
 Dynamic GitHub statistics powered by my own **GraphQL + SVG analytics engine**  
-- ⚡ Real-time data  
-- 🎨 Fully custom SVG rendering  
-- ☁️ Deployed on Vercel  
+- Real-time data  
+- Fully custom SVG rendering  
+- Deployed on Vercel  
 
 
 <div align="center">
