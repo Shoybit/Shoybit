@@ -97,8 +97,8 @@ Dynamic GitHub statistics powered by my own **GraphQL + SVG analytics engine**
 <div align="center">
   <p>
     <img 
-      height="900"
-      width="900"
+      height="720"
+      width="720"
       src="https://github-analytics-backend.vercel.app/api/github/stats.svg?user=shoybit"
     />
   </p>
