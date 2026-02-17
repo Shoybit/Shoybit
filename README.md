@@ -86,21 +86,14 @@ I enjoy transforming complex UI ideas into simple, performant, and maintainable 
 </div>
 
 
-## 🚀 GitHub Analytics (Custom Built)
+## 🚀 GitHub Analytics
 
-Dynamic GitHub statistics powered by my own **GraphQL + SVG analytics engine**  
-- Real-time data  
-- Fully custom SVG rendering  
-- Deployed on Vercel  
+
 
 <div align="center">
-  <img 
-    height="900"
-    width="900"
-    src="https://github-analytics-backend.vercel.app/api/github/stats.svg?user=shoybit&v=999"
-  />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoybit&theme=dark" alt="shoybit" />
 </div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoybit&theme=dark" alt="shoybit" />
+ 
 
 <div align="center">
   <a href="https://github.com/shoybit">
