@@ -100,7 +100,7 @@ Dynamic GitHub statistics powered by my own **GraphQL + SVG analytics engine**
     src="https://github-analytics-backend.vercel.app/api/github/stats.svg?user=shoybit&v=999"
   />
 </div>
-
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoybit&theme=dark" alt="shoybit" />
 
 <div align="center">
   <a href="https://github.com/shoybit">
