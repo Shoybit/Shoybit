@@ -77,6 +77,7 @@ I enjoy transforming complex UI ideas into simple, performant, and maintainable 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoyaib105@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoyaib-islam1/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shoybit07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge)](https://portfolio-sandy-psi-62.vercel.app/)
 
 </div>
 
