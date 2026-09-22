@@ -14,11 +14,13 @@ MERN Stack Developer focused on building clean, responsive, and user-friendly we
 
 ## 🎨 About Me
 
-I build clean, responsive, and user-focused web applications using React and Next.js.  
-I enjoy transforming complex UI ideas into simple, performant, and maintainable code.
+I’m a MERN Stack Developer focused on building modern, responsive, and user-friendly web applications.
 
-⚡ Strong focus on modern UI/UX, reusable components, and scalable frontend architecture.  
-🌱 Currently improving my skills in Next.js, TypeScript, and full-stack MERN development.
+I work with JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and MongoDB. I enjoy turning ideas and designs into clean, functional, and scalable web applications.
+
+I have hands-on experience building business websites, landing pages, dashboards, and dynamic web applications. I’m particularly interested in frontend development, REST APIs, performance optimization, responsive design, and scalable application architecture.
+
+Currently, I’m focused on improving my skills with Next.js, TypeScript, backend development, and full-stack application development.
 
 
 ---
