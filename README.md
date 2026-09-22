@@ -1,6 +1,6 @@
 <img src="https://github.com/Shoybit/Shoybit/blob/main/banner.png" alt="Banner"/>
 <p align="center">
-Front-End Developer focused on building clean, responsive, and user-friendly web interfaces.
+MERN Stack Developer focused on building clean, responsive, and user-friendly web applications.
 </p>
 
 <div align="center">
